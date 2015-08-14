@@ -1,5 +1,7 @@
 # Creating a heterogeneous network for drug repurposing
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.28040.svg)](http://dx.doi.org/10.5281/zenodo.28040)
+
 This repository creates our heterogeneous network for [repurposing drugs](https://dx.doi.org/10.15363/thinklab.4). The underlying databases are processed elsewhere but integrated here. Below the network is visualized:
 
 ![](viz/network-5k.png?raw=true)
