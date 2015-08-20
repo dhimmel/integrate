@@ -4,6 +4,8 @@ The [download page](http://www.broadinstitute.org/gsea/downloads.jsp) states:
 
 License retreived from http://www.broadinstitute.org/gsea/msigdb/download_file.jsp?filePath=/resources/licenses/gsea_msigdb_license.txt on 2015-08-20.
 
+***
+
 ---------------------------------------------------------------- 
 **** GSEA/MSigDB LICENSE AGREEMENT **** 
 ---------------------------------------------------------------- 
