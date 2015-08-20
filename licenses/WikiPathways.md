@@ -1,5 +1,7 @@
 Retreived from http://www.wikipathways.org/index.php/WikiPathways:License_Terms on 2015-08-20.
 
+***
+
 # WikiPathways:License Terms - WikiPathways
 
 ### From WikiPathways
