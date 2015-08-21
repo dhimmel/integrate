@@ -9,9 +9,8 @@ License table:
 | Uberon |  |  |
 | MeSH | [custom](custom/MeSH.md) | [2015-08-21](https://www.nlm.nih.gov/mesh/termscon.html) |
 | WikiPathways | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [custom](custom/WikiPathways.md) | [2015-08-20](http://www.wikipathways.org/index.php/WikiPathways:License_Terms) |
-| WikiPathways | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [custom](custom/WikiPathways.md) | [2015-08-20](http://www.wikipathways.org/index.php/WikiPathways:License_Terms) |
 | MSigDB | [custom](custom/MSigDB.txt) | [2015-08-20](http://www.broadinstitute.org/gsea/msigdb/download_file.jsp?filePath=/resources/licenses/gsea_msigdb_license.txt) |
-| MSigDB | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [2015-08-21](http://geneontology.org/page/use-and-license) |
+| Gene Ontology | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [2015-08-21](http://geneontology.org/page/use-and-license) |
 | GWAS Catalog |  |  |
 | DOAF |  |  |
 | ADEPTUS |  |  |
