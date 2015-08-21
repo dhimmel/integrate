@@ -1,6 +1,6 @@
 # Source licenses
 
-The following table provides the licenses for resources contributing nodes or edges to the network. Source indicates the date when and location where the license information was retrieved.
+The following table provides the licenses for resources contributing nodes or edges to the network. Source indicates the date when and location where the license information was retrieved. Blank values indicate no licensing information was found.
 
 | Resource | License | Source |
 | -------- | ------- | ------ |
