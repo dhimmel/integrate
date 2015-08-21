@@ -1,5 +1,6 @@
+# Source licenses
 
-License table:
+The following table provides the licenses for resources contributing nodes or edges to the network. Source indicates the date when and location where the license information was retrieved.
 
 | Resource | License | Source |
 | -------- | ------- | ------ |
@@ -13,7 +14,21 @@ License table:
 | Gene Ontology | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [2015-08-21](http://geneontology.org/page/use-and-license) |
 | GWAS Catalog |  |  |
 | DOAF |  |  |
+| DISEASES | [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [2015-08-21](http://diseases.jensenlab.org/Downloads) |
+| DisGeNET | [ODbL](http://opendatacommons.org/licenses/odbl/) | [2015-08-21](http://www.disgenet.org/web/DisGeNET/menu) |
 | ADEPTUS |  |  |
+| STARGEO |  |  |
 | MEDLINE | [custom](custom/MEDLINE.md) | [2015-08-21](http://www.nlm.nih.gov/databases/journal.html) |
 | Bgee | | |
-| BindingDB | [custom (CC-BY 3.0 & CC-BY-SA 3.0)](custom/BingindDB.md) | [2015-08-21](https://www.bindingdb.org/bind/info.jsp) |
+| TISSUES | [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [2015-08-21](http://tissues.jensenlab.org/Downloads) |
+| BindingDB | [mixed](custom/BingindDB.md) CC-BY 3.0 & CC-BY-SA 3.0 | [2015-08-21](https://www.bindingdb.org/bind/info.jsp) |
+| hetio-dag |  |  |
+| Human Interactome Database |  |  |
+| Incomplete Interactome |  |  |
+| Evolutionary Rate Covariation |  |  |
+| MEDI | [CC-BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) | [2015-08-21](http://knowledgemap.mc.vanderbilt.edu/research/content/MEDI) |
+| ehrlink |  |  |
+| LabeledIn | [custom](custom/LabeledIn.txt) | [2015-08-21](http://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/README.txt) |
+| PREDICT | [CC-BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) | [2015-08-21](http://msb.embopress.org/content/7/1/496) |
+| LINCS L1000 | [custom](custom/L1000.md) | [2015-08-20](http://www.lincscloud.org/license/) |
+| SIDER 4 | [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) | [2015-08-21](http://sideeffects.embl.de/download/) |
