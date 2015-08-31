@@ -6,8 +6,8 @@ The following table provides the licenses for resources contributing nodes or ed
 | -------- | ------- | ------ |
 | Disease Ontology | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [2015-08-20](http://disease-ontology.org/resources/) |
 | DrugBank 4.2 | [custom](custom/DrugBank.md) | [2015-08-20](http://www.drugbank.ca/) |
-| Entrez Gene |  |  |
-| Uberon |  |  |
+| Entrez Gene | [custom](custom/NCBI.md) | [2015-08-31](http://www.ncbi.nlm.nih.gov/home/about/policies.shtml) |
+| Uberon | [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) | [2015-08-30](https://github.com/obophenotype/uberon/issues/1139#issuecomment-136204582) |
 | MeSH | [custom](custom/MeSH.md) | [2015-08-21](https://www.nlm.nih.gov/mesh/termscon.html) |
 | WikiPathways | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [custom](custom/WikiPathways.md) | [2015-08-20](http://www.wikipathways.org/index.php/WikiPathways:License_Terms) |
 | MSigDB | [custom](custom/MSigDB.txt) | [2015-08-20](http://www.broadinstitute.org/gsea/msigdb/download_file.jsp?filePath=/resources/licenses/gsea_msigdb_license.txt) |
