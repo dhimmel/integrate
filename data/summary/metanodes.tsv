@@ -1,12 +1,12 @@
 metanode	abbreviation	metaedges	nodes	unconnected_nodes
-side effect	SE	1	5745	33
-anatomy	A	4	402	2
-symptom	S	1	438	23
-pathway	PW	1	1615	0
-gene	G	22	20971	1756
-cellular component	CC	1	1332	0
-biological process	BP	1	11014	0
-compound	C	7	1552	25
-disease	D	8	137	3
 perturbation	PB	1	3395	0
 molecular function	MF	1	2826	0
+gene	G	22	20971	1757
+side effect	SE	1	5745	33
+biological process	BP	1	11014	0
+cellular component	CC	1	1332	0
+anatomy	A	4	402	2
+disease	D	8	137	1
+symptom	S	1	438	23
+pathway	PW	1	1615	0
+compound	C	7	1552	25
