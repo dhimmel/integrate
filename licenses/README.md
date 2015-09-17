@@ -12,7 +12,7 @@ The following table provides the licenses for resources contributing nodes or ed
 | WikiPathways | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [custom](custom/WikiPathways.md) | [2015-08-20](http://www.wikipathways.org/index.php/WikiPathways:License_Terms) |
 | MSigDB | [custom](custom/MSigDB.txt) | [2015-08-20](http://www.broadinstitute.org/gsea/msigdb/download_file.jsp?filePath=/resources/licenses/gsea_msigdb_license.txt) |
 | Gene Ontology | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [2015-08-21](http://geneontology.org/page/use-and-license) |
-| GWAS Catalog |  |  |
+| GWAS Catalog | [custom](custom/EBI.md) | [2015-09-17](http://www.ebi.ac.uk/about/terms-of-use) |
 | DOAF |  |  |
 | DISEASES | [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [2015-08-21](http://diseases.jensenlab.org/Downloads) |
 | DisGeNET | [ODbL](http://opendatacommons.org/licenses/odbl/) | [2015-08-21](http://www.disgenet.org/web/DisGeNET/menu) |
