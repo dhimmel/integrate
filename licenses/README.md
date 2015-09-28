@@ -10,7 +10,7 @@ The following table provides the licenses for resources contributing nodes or ed
 | Uberon | [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) | [2015-08-30](https://github.com/obophenotype/uberon/issues/1139#issuecomment-136204582) |
 | MeSH | [custom](custom/MeSH.md) | [2015-08-21](https://www.nlm.nih.gov/mesh/termscon.html) |
 | WikiPathways | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [custom](custom/WikiPathways.md) | [2015-08-20](http://www.wikipathways.org/index.php/WikiPathways:License_Terms) |
-| MSigDB | [custom](custom/MSigDB.txt) | [2015-08-20](http://www.broadinstitute.org/gsea/msigdb/download_file.jsp?filePath=/resources/licenses/gsea_msigdb_license.txt) |
+| MSigDB | [custom](custom/MSigDB.asciidoc) | [2015-08-20](http://www.broadinstitute.org/gsea/msigdb/download_file.jsp?filePath=/resources/licenses/gsea_msigdb_license.txt) |
 | Gene Ontology | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [2015-08-21](http://geneontology.org/page/use-and-license) |
 | GWAS Catalog | [custom](custom/EBI.md) | [2015-09-17](http://www.ebi.ac.uk/about/terms-of-use) |
 | DOAF |  |  |
