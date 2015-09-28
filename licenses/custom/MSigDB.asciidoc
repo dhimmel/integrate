@@ -1,4 +1,4 @@
-The [download page](http://www.broadinstitute.org/gsea/downloads.jsp) states:
+The link:http://www.broadinstitute.org/gsea/downloads.jsp[download page] states:
 
 > The GSEA software and source code and the Molecular Signatures Database (MSigDB) are freely available to individuals in both academia and industry for internal research purposes. Please see the GSEA/MSigDB license for more details.
 
