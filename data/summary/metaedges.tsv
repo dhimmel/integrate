@@ -1,53 +1,53 @@
 metaedge	abbreviation	inverted	edges	source_nodes	target_nodes	unbiased
-gene - participation - pathway	GpPW	0	79101	9511	1615	0
-pathway - participation - gene	PWpG	1	79101	1615	9511	0
-gene - downregulation - compound	GdC	1	20312	923	748	20312
-gene - variation - disease	GvD	1	1284	926	91	1284
-compound - indication - disease	CiD	0	1388	601	97	0
-gene - expression - anatomy	GeA	0	987862	18041	194	914193
-gene - downregulation - disease	GdD	1	674	664	3	674
-gene - participation - biological process	GpBP	0	534004	14533	11014	0
-compound - binding - gene	CbG	0	2502	554	572	0
-gene < knockdown downregulation < gene	G<kdG	1	140942	957	4207	140942
-gene - upregulation - compound	GuC	1	17261	953	729	17261
-gene < knockdown upregulation < gene	G<kuG	1	78752	970	4068	78752
+anatomy - downregulation - gene	AdG	1	102240	36	15097	102240
+anatomy - expression - gene	AeG	1	987862	194	18041	914193
 anatomy - localization - disease	AlD	1	3602	398	133	0
-gene - participation - molecular function	GpMF	0	93857	12890	2826	0
-disease - similarity - disease	DsD	0	1086	129	129	0
-side effect - causation - compound	SEcC	1	139235	5712	1071	0
-gene > overexpression downregulation > gene	God>G	0	14911	1660	830	14911
+anatomy - upregulation - gene	AuG	1	97848	36	15929	97848
 biological process - participation - gene	BPpG	1	534004	11014	14533	0
 cellular component - participation - gene	CCpG	1	65377	1332	10269	0
-disease - upregulation - gene	DuG	0	910	3	870	910
+compound - binding - gene	CbG	0	2502	554	572	0
 compound - causation - side effect	CcSE	0	139235	1071	5712	0
-compound - upregulation - gene	CuG	0	17261	729	953	17261
-gene > knockdown downregulation > gene	Gkd>G	0	140942	4207	957	140942
-gene > overexpression upregulation > gene	Gup>G	0	15292	1862	909	15292
-compound - target - gene	CtG	0	4603	1182	1133	0
-disease - presense - symptom	DpS	0	3357	133	415	0
-gene - participation - cellular component	GpCC	0	65377	10269	1332	0
-symptom - presense - disease	SpD	1	3357	415	133	0
-perturbation - regulation - gene	PBrG	1	366502	3395	18245	0
 compound - downregulation - gene	CdG	0	20312	748	923	20312
-anatomy - downregulation - gene	AdG	1	102240	36	15097	102240
-gene - evolution - gene	GeG	0	123382	12453	12453	123382
-gene - target - compound	GtC	1	4603	1133	1182	0
-anatomy - expression - gene	AeG	1	987862	194	18041	914193
-molecular function - participation - gene	MFpG	1	93857	2826	12890	0
-disease - association - gene	DaG	0	11824	134	5067	0
-anatomy - upregulation - gene	AuG	1	97848	36	15929	97848
-disease - indication - compound	DiC	1	1388	97	601	0
-gene < overexpression downregulation < gene	G<odG	1	14911	830	1660	14911
-gene - upregulation - anatomy	GuA	0	97848	15929	36	97848
-gene - regulation - perturbation	GrPB	0	366502	18245	3395	0
-gene - upregulation - disease	GuD	1	910	870	3	910
-disease - variation - gene	DvG	0	1284	91	926	1284
-gene < overexpression upregulation < gene	G<upG	1	15292	909	1862	15292
-disease - downregulation - gene	DdG	0	674	3	664	674
-gene - binding - compound	GbC	1	2502	572	554	0
-gene - association - disease	GaD	1	11824	5067	134	0
-gene > knockdown upregulation > gene	Gku>G	0	78752	4068	970	78752
-disease - localization - anatomy	DlA	0	3602	133	398	0
+compound - indication - disease	CiD	0	1388	601	97	0
 compound - similarity - compound	CsC	0	12972	1281	1281	12972
-gene - interaction - gene	GiG	0	297253	15211	15211	31575
+compound - target - gene	CtG	0	4603	1182	1133	0
+compound - upregulation - gene	CuG	0	17261	729	953	17261
+disease - association - gene	DaG	0	11824	134	5067	0
+disease - downregulation - gene	DdG	0	674	3	664	674
+disease - indication - compound	DiC	1	1388	97	601	0
+disease - localization - anatomy	DlA	0	3602	133	398	0
+disease - presense - symptom	DpS	0	3357	133	415	0
+disease - similarity - disease	DsD	0	1086	129	129	0
+disease - upregulation - gene	DuG	0	910	3	870	910
+disease - variation - gene	DvG	0	1284	91	926	1284
+gene - association - disease	GaD	1	11824	5067	134	0
+gene - binding - compound	GbC	1	2502	572	554	0
 gene - downregulation - anatomy	GdA	0	102240	15097	36	102240
+gene - downregulation - compound	GdC	1	20312	923	748	20312
+gene - downregulation - disease	GdD	1	674	664	3	674
+gene - evolution - gene	GeG	0	123382	12453	12453	123382
+gene - expression - anatomy	GeA	0	987862	18041	194	914193
+gene - interaction - gene	GiG	0	297253	15211	15211	31575
+gene - participation - biological process	GpBP	0	534004	14533	11014	0
+gene - participation - cellular component	GpCC	0	65377	10269	1332	0
+gene - participation - molecular function	GpMF	0	93857	12890	2826	0
+gene - participation - pathway	GpPW	0	79101	9511	1615	0
+gene - regulation - perturbation	GrPB	0	366502	18245	3395	0
+gene - target - compound	GtC	1	4603	1133	1182	0
+gene - upregulation - anatomy	GuA	0	97848	15929	36	97848
+gene - upregulation - compound	GuC	1	17261	953	729	17261
+gene - upregulation - disease	GuD	1	910	870	3	910
+gene - variation - disease	GvD	1	1284	926	91	1284
+gene < knockdown downregulation < gene	G<kdG	1	140942	957	4207	140942
+gene < knockdown upregulation < gene	G<kuG	1	78752	970	4068	78752
+gene < overexpression downregulation < gene	G<odG	1	14911	830	1660	14911
+gene < overexpression upregulation < gene	G<upG	1	15292	909	1862	15292
+gene > knockdown downregulation > gene	Gkd>G	0	140942	4207	957	140942
+gene > knockdown upregulation > gene	Gku>G	0	78752	4068	970	78752
+gene > overexpression downregulation > gene	God>G	0	14911	1660	830	14911
+gene > overexpression upregulation > gene	Gup>G	0	15292	1862	909	15292
+molecular function - participation - gene	MFpG	1	93857	2826	12890	0
+pathway - participation - gene	PWpG	1	79101	1615	9511	0
+perturbation - regulation - gene	PBrG	1	366502	3395	18245	0
+side effect - causation - compound	SEcC	1	139235	5712	1071	0
+symptom - presense - disease	SpD	1	3357	415	133	0
