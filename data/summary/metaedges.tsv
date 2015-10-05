@@ -31,23 +31,23 @@ gene - interaction - gene	GiG	0	297253	15211	15211	31575
 gene - participation - biological process	GpBP	0	534004	14533	11014	0
 gene - participation - cellular component	GpCC	0	65377	10269	1332	0
 gene - participation - molecular function	GpMF	0	93857	12890	2826	0
-gene - participation - pathway	GpPW	0	79101	9511	1615	0
+gene - participation - pathway	GpPW	0	77753	9371	1613	0
 gene - regulation - perturbation	GrPB	0	366502	18245	3395	0
 gene - target - compound	GtC	1	4603	1133	1182	0
 gene - upregulation - anatomy	GuA	0	97848	15929	36	97848
 gene - upregulation - compound	GuC	1	17261	953	729	17261
 gene - upregulation - disease	GuD	1	910	870	3	910
 gene - variation - disease	GvD	1	1284	926	91	1284
-gene < knockdown downregulation < gene	G<kdG	1	140942	957	4207	140942
-gene < knockdown upregulation < gene	G<kuG	1	78752	970	4068	78752
-gene < overexpression downregulation < gene	G<odG	1	14911	830	1660	14911
-gene < overexpression upregulation < gene	G<upG	1	15292	909	1862	15292
-gene > knockdown downregulation > gene	Gkd>G	0	140942	4207	957	140942
-gene > knockdown upregulation > gene	Gku>G	0	78752	4068	970	78752
-gene > overexpression downregulation > gene	God>G	0	14911	1660	830	14911
-gene > overexpression upregulation > gene	Gup>G	0	15292	1862	909	15292
+gene < knockdown downregulation < gene	G<kdG	1	140140	954	4207	140140
+gene < knockdown upregulation < gene	G<kuG	1	78750	970	4068	78750
+gene < overexpression downregulation < gene	G<odG	1	14904	830	1660	14904
+gene < overexpression upregulation < gene	G<upG	1	15174	893	1842	15174
+gene > knockdown downregulation > gene	Gkd>G	0	140140	4207	954	140140
+gene > knockdown upregulation > gene	Gku>G	0	78750	4068	970	78750
+gene > overexpression downregulation > gene	God>G	0	14904	1660	830	14904
+gene > overexpression upregulation > gene	Gup>G	0	15174	1842	893	15174
 molecular function - participation - gene	MFpG	1	93857	2826	12890	0
-pathway - participation - gene	PWpG	1	79101	1615	9511	0
+pathway - participation - gene	PWpG	1	77753	1613	9371	0
 perturbation - regulation - gene	PBrG	1	366502	3395	18245	0
 side effect - causation - compound	SEcC	1	139235	5712	1071	0
 symptom - presense - disease	SpD	1	3357	415	133	0

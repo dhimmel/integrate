@@ -39583,12 +39583,8 @@ pathway::WP176	Folate Metabolism(Homo sapiens)	pathway
 pathway::WP1772	Apoptosis Modulation and Signaling(Homo sapiens)	pathway
 pathway::WP179	Cell Cycle(Homo sapiens)	pathway
 pathway::WP183	Proteasome Degradation(Homo sapiens)	pathway
-pathway::WP1846	Membrane Trafficking(Homo sapiens)	pathway
 pathway::WP185	Integrin-mediated Cell Adhesion(Homo sapiens)	pathway
 pathway::WP186	Homologous recombination(Homo sapiens)	pathway
-pathway::WP1870	Neurotransmitter Clearance In The Synaptic Cleft(Homo sapiens)	pathway
-pathway::WP1871	Neurotransmitter Release Cycle(Homo sapiens)	pathway
-pathway::WP1907	Semaphorin interactions(Homo sapiens)	pathway
 pathway::WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA(Homo sapiens)	pathway
 pathway::WP1946	Cori Cycle(Homo sapiens)	pathway
 pathway::WP195	IL-1 signaling pathway(Homo sapiens)	pathway
@@ -39600,12 +39596,6 @@ pathway::WP1984	Integrated Breast Cancer Pathway(Homo sapiens)	pathway
 pathway::WP1991	SRF and miRs in Smooth Muscle Differentiation and Proliferation(Homo sapiens)	pathway
 pathway::WP1992	TarBasePathway(Homo sapiens)	pathway
 pathway::WP1995	Effects of Nitric Oxide(Homo sapiens)	pathway
-pathway::WP2001	miR-targeted genes in adipocytes - TarBase(Homo sapiens)	pathway
-pathway::WP2002	miR-targeted genes in epithelium - TarBase(Homo sapiens)	pathway
-pathway::WP2003	miR-targeted genes in leukocytes - TarBase(Homo sapiens)	pathway
-pathway::WP2004	miR-targeted genes in lymphocytes - TarBase(Homo sapiens)	pathway
-pathway::WP2005	miR-targeted genes in muscle cell - TarBase(Homo sapiens)	pathway
-pathway::WP2006	miR-targeted genes in squamous cell - TarBase(Homo sapiens)	pathway
 pathway::WP2007	Iron metabolism in placenta(Homo sapiens)	pathway
 pathway::WP2011	SREBF and miR33 in cholesterol and lipid homeostasis(Homo sapiens)	pathway
 pathway::WP2012	miRs in Muscle Cell Differentiation(Homo sapiens)	pathway
@@ -39685,7 +39675,6 @@ pathway::WP262	EBV LMP1 signaling(Homo sapiens)	pathway
 pathway::WP2637	Structural Pathway of Interleukin 1 (IL-1)(Homo sapiens)	pathway
 pathway::WP2643	Nanoparticle-mediated activation of receptor signaling(Homo sapiens)	pathway
 pathway::WP2646	Lidocaine metabolism(Homo sapiens)	pathway
-pathway::WP2670	Iron uptake and transport(Homo sapiens)	pathway
 pathway::WP268	Notch Signaling Pathway(Homo sapiens)	pathway
 pathway::WP272	Blood Clotting Cascade(Homo sapiens)	pathway
 pathway::WP2795	Cardiac Hypertrophic Response(Homo sapiens)	pathway
@@ -39694,7 +39683,6 @@ pathway::WP2804	Hair Follicle Development: Induction (Part 1 of 3)(Homo sapiens)
 pathway::WP2805	RNA interference(Homo sapiens)	pathway
 pathway::WP2816	Felbamate Metabolism(Homo sapiens)	pathway
 pathway::WP2828	Bladder Cancer(Homo sapiens)	pathway
-pathway::WP2846	PCSK9-mediated LDLR degradation(Homo sapiens)	pathway
 pathway::WP2848	Differentiation Pathway(Homo sapiens)	pathway
 pathway::WP2849	Hematopoietic Stem Cell Differentiation(Homo sapiens)	pathway
 pathway::WP2853	Endoderm Differentiation(Homo sapiens)	pathway
@@ -39722,6 +39710,7 @@ pathway::WP2911	miRNA targets in ECM and membrane receptors(Homo sapiens)	pathwa
 pathway::WP2916	Interactome of polycomb repressive complex 2 (PRC2) (Homo sapiens)	pathway
 pathway::WP2942	DDX1 as a regulatory component of the Drosha microprocessor(Homo sapiens)	pathway
 pathway::WP2943	Hypoxia-mediated EMT and Stemness(Homo sapiens)	pathway
+pathway::WP2946	Imatinib Resistance in Chronic Myeloid Leukemia(Homo sapiens)	pathway
 pathway::WP299	Nuclear Receptors in Lipid Metabolism and Toxicity(Homo sapiens)	pathway
 pathway::WP3	Transcriptional activation by NRF2(Homo sapiens)	pathway
 pathway::WP304	Kit receptor signaling pathway(Homo sapiens)	pathway
@@ -39731,8 +39720,17 @@ pathway::WP313	Signaling of Hepatocyte Growth Factor Receptor(Homo sapiens)	path
 pathway::WP314	FAS pathway and Stress induction of HSP regulation(Homo sapiens)	pathway
 pathway::WP322	Osteoblast Signaling(Homo sapiens)	pathway
 pathway::WP325	Triacylglyceride Synthesis(Homo sapiens)	pathway
+pathway::WP3286	Copper homeostasis(Homo sapiens)	pathway
+pathway::WP3297	EV release from cardiac cells and their functional effects(Homo sapiens)	pathway
+pathway::WP3300	Dual hijack model of Vif in HIV infection(Homo sapiens)	pathway
+pathway::WP3301	MFAP5-mediated ovarian cancer cell motility and invasiveness(Homo sapiens)	pathway
+pathway::WP3302	eIF5A regulation in response to inhibition of the nuclear export system(Homo sapiens)	pathway
+pathway::WP3303	Rac1/Pak1/p38/MMP-2 pathway(Homo sapiens)	pathway
 pathway::WP334	GPCRs, Class B Secretin-like(Homo sapiens)	pathway
 pathway::WP34	Ovarian Infertility Genes(Homo sapiens)	pathway
+pathway::WP3407	FTO Obesity Variant Mechanism(Homo sapiens)	pathway
+pathway::WP3408	Evolocumab Mechanism(Homo sapiens)	pathway
+pathway::WP3413	NOTCH1 regulation of human endothelial cell calcification(Homo sapiens)	pathway
 pathway::WP35	G Protein Signaling Pathways(Homo sapiens)	pathway
 pathway::WP357	Fatty Acid Biosynthesis(Homo sapiens)	pathway
 pathway::WP363	Wnt Signaling Pathway Netpath(Homo sapiens)	pathway
@@ -39781,7 +39779,7 @@ pathway::WP530	Cytokines and Inflammatory Response(Homo sapiens)	pathway
 pathway::WP531	Mismatch repair(Homo sapiens)	pathway
 pathway::WP534	Glycolysis and Gluconeogenesis(Homo sapiens)	pathway
 pathway::WP536	Calcium Regulation in the Cardiac Cell(Homo sapiens)	pathway
-pathway::WP545	Complement Activation, Classical Pathway(Homo sapiens)	pathway
+pathway::WP545	Complement Activation(Homo sapiens)	pathway
 pathway::WP550	Biogenic Amine Synthesis(Homo sapiens)	pathway
 pathway::WP554	ACE Inhibitor Pathway(Homo sapiens)	pathway
 pathway::WP558	Complement and Coagulation Cascades(Homo sapiens)	pathway

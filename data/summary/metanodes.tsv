@@ -4,9 +4,9 @@ biological process	BP	1	11014	0
 cellular component	CC	1	1332	0
 compound	C	7	1552	25
 disease	D	8	137	1
-gene	G	22	20945	1731
+gene	G	22	20945	1735
 molecular function	MF	1	2826	0
-pathway	PW	1	1615	0
+pathway	PW	1	1613	0
 perturbation	PB	1	3395	0
 side effect	SE	1	5745	33
 symptom	S	1	438	23
