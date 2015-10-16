@@ -30,5 +30,5 @@ The following table provides the licenses for resources contributing nodes or ed
 | ehrlink |  |  | UTHealth |
 | LabeledIn | [custom](custom/LabeledIn.txt) | [2015-08-21](http://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/README.txt) | NCBI |
 | PREDICT | [CC-BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) | [2015-08-21](http://msb.embopress.org/content/7/1/496) | Tel‐Aviv University |
-| LINCS L1000 | [custom](custom/L1000.md) | [2015-08-20](http://www.lincscloud.org/license/) | Broad Institute |
+| LINCS L1000 | [custom](custom/L1000.md) | [2015-10-16](http://www.lincscloud.org/license/) | Broad Institute |
 | SIDER 4 | [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) | [2015-08-21](http://sideeffects.embl.de/download/) | EMBL |
