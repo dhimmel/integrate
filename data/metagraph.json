@@ -1,205 +1,211 @@
 {
   "metanode_kinds": [
-    "symptom",
-    "molecular function",
-    "perturbation",
-    "disease",
-    "compound",
-    "gene",
-    "biological process",
-    "cellular component",
     "anatomy",
+    "disease",
+    "biological process",
+    "gene",
+    "molecular function",
     "pathway",
-    "side effect"
+    "cellular component",
+    "perturbation",
+    "side effect",
+    "symptom",
+    "compound"
   ],
   "metaedge_tuples": [
     [
+      "compound",
+      "gene",
+      "upregulates",
+      "both"
+    ],
+    [
       "gene",
       "gene",
-      "overexpression downregulation",
+      "overexpression upregulates",
       "forward"
     ],
     [
-      "compound",
-      "gene",
-      "downregulation",
-      "both"
-    ],
-    [
-      "gene",
-      "gene",
-      "evolution",
-      "both"
-    ],
-    [
-      "disease",
       "anatomy",
-      "localization",
-      "both"
-    ],
-    [
       "gene",
-      "perturbation",
-      "regulation",
-      "both"
-    ],
-    [
-      "gene",
-      "gene",
-      "knockdown upregulation",
-      "forward"
-    ],
-    [
-      "disease",
-      "gene",
-      "upregulation",
-      "both"
-    ],
-    [
-      "gene",
-      "anatomy",
-      "downregulation",
-      "both"
-    ],
-    [
-      "gene",
-      "gene",
-      "interaction",
-      "both"
-    ],
-    [
-      "disease",
-      "gene",
-      "association",
+      "expresses",
       "both"
     ],
     [
       "compound",
-      "compound",
-      "similarity",
+      "disease",
+      "palliates",
       "both"
     ],
     [
-      "compound",
-      "gene",
-      "upregulation",
-      "both"
-    ],
-    [
-      "gene",
       "anatomy",
-      "upregulation",
-      "both"
-    ],
-    [
-      "disease",
       "gene",
-      "downregulation",
-      "both"
-    ],
-    [
-      "gene",
-      "pathway",
-      "participation",
-      "both"
-    ],
-    [
-      "disease",
-      "disease",
-      "similarity",
-      "both"
-    ],
-    [
-      "gene",
-      "anatomy",
-      "expression",
+      "downregulates",
       "both"
     ],
     [
       "gene",
       "cellular component",
-      "participation",
+      "participates",
+      "both"
+    ],
+    [
+      "perturbation",
+      "gene",
+      "regulates",
       "both"
     ],
     [
       "gene",
       "gene",
-      "overexpression upregulation",
-      "forward"
+      "evolves",
+      "both"
+    ],
+    [
+      "compound",
+      "compound",
+      "resembles",
+      "both"
+    ],
+    [
+      "disease",
+      "disease",
+      "resembles",
+      "both"
+    ],
+    [
+      "disease",
+      "gene",
+      "upregulates",
+      "both"
     ],
     [
       "compound",
       "gene",
-      "binding",
+      "binds",
       "both"
     ],
     [
       "gene",
       "gene",
-      "knockdown downregulation",
+      "knockdown upregulates",
       "forward"
     ],
     [
       "compound",
       "disease",
-      "indication",
-      "both"
-    ],
-    [
-      "disease",
-      "symptom",
-      "presence",
+      "treats",
       "both"
     ],
     [
       "gene",
-      "molecular function",
-      "participation",
-      "both"
-    ],
-    [
-      "compound",
-      "side effect",
-      "causation",
+      "gene",
+      "interacts",
       "both"
     ],
     [
       "gene",
       "biological process",
-      "participation",
+      "participates",
+      "both"
+    ],
+    [
+      "gene",
+      "gene",
+      "knockdown downregulates",
+      "forward"
+    ],
+    [
+      "disease",
+      "gene",
+      "downregulates",
+      "both"
+    ],
+    [
+      "disease",
+      "anatomy",
+      "localizes",
+      "both"
+    ],
+    [
+      "gene",
+      "molecular function",
+      "participates",
+      "both"
+    ],
+    [
+      "disease",
+      "symptom",
+      "presents",
+      "both"
+    ],
+    [
+      "compound",
+      "side effect",
+      "causes",
+      "both"
+    ],
+    [
+      "anatomy",
+      "gene",
+      "upregulates",
+      "both"
+    ],
+    [
+      "compound",
+      "gene",
+      "downregulates",
+      "both"
+    ],
+    [
+      "gene",
+      "gene",
+      "overexpression downregulates",
+      "forward"
+    ],
+    [
+      "disease",
+      "gene",
+      "associates",
+      "both"
+    ],
+    [
+      "gene",
+      "pathway",
+      "participates",
       "both"
     ]
   ],
   "kind_to_abbrev": {
-    "symptom": "S",
-    "perturbation": "PB",
-    "indication": "i",
-    "gene": "G",
+    "expresses": "e",
+    "knockdown downregulates": "kd",
+    "participates": "p",
+    "knockdown upregulates": "ku",
+    "treats": "t",
     "compound": "C",
-    "presence": "p",
-    "interaction": "i",
-    "knockdown upregulation": "ku",
-    "participation": "p",
-    "similarity": "s",
-    "downregulation": "d",
-    "pathway": "PW",
+    "overexpression downregulates": "od",
+    "upregulates": "u",
+    "causes": "c",
     "cellular component": "CC",
-    "evolution": "e",
-    "expression": "e",
-    "side effect": "SE",
-    "overexpression downregulation": "od",
-    "binding": "b",
-    "function": "f",
-    "disease": "D",
-    "regulation": "r",
-    "biological process": "BP",
-    "upregulation": "u",
-    "causation": "c",
+    "perturbation": "PB",
     "anatomy": "A",
-    "overexpression upregulation": "ou",
-    "localization": "l",
-    "association": "a",
-    "knockdown downregulation": "kd",
-    "molecular function": "MF"
+    "biological process": "BP",
+    "evolves": "e",
+    "molecular function": "MF",
+    "regulates": "r",
+    "associates": "a",
+    "binds": "b",
+    "side effect": "SE",
+    "symptom": "S",
+    "downregulates": "d",
+    "interacts": "i",
+    "resembles": "r",
+    "presents": "p",
+    "overexpression upregulates": "ou",
+    "gene": "G",
+    "palliates": "p",
+    "localizes": "l",
+    "pathway": "PW",
+    "disease": "D"
   }
 }
