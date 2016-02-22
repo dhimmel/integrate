@@ -61,21 +61,38 @@ def create_instance(version, db_id, port=7474, overwrite=False):
 
     return directory
 
-def hetnet_to_neo4j(path, neo4j_dir, port):
+def hetnet_to_neo4j(path, neo4j_dir, port, database_path='data/graph.db'):
     """
     Read a hetnet from file and import it into a new neo4j instance.
     """
     neo4j_bin = os.path.join(neo4j_dir, 'bin', 'neo4j')
     subprocess.run([neo4j_bin, 'start'])
+    error = None
     try:
         graph = hetio.readwrite.read_graph(path)
         uri = 'http://localhost:{}/db/data/'.format(port)
         hetio.neo4j.export_neo4j(graph, uri, 1000, 250)
     except Exception as e:
-        print(neo4j_dir, Exception)
+        error = e
+        print(neo4j_dir, e)
     finally:
         print('finally')
         subprocess.run([neo4j_bin, 'stop'])
+    if not error:
+        database_dir = os.path.join(neo4j_dir, database_path)
+        remove_logs(database_dir)
+
+def remove_logs(database_dir):
+    """Should only run when server is shutdown."""
+    filenames = os.listdir(database_dir)
+    removed = list()
+    for filename in filenames:
+        if (filename.startswith('neostore.transaction.db') or
+            filename.startswith('messages.log')):
+            path = os.path.join(database_dir, filename)
+            os.remove(path)
+            removed.append(filename)
+    return removed
 
 if __name__ == "__main__":
     # Options
