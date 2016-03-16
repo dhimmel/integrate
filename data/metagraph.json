@@ -1,140 +1,20 @@
 {
   "metanode_kinds": [
-    "disease",
+    "anatomy",
+    "biological process",
     "cellular component",
-    "symptom",
+    "compound",
+    "disease",
+    "gene",
     "molecular function",
     "pathway",
-    "side effect",
-    "gene",
     "perturbation",
-    "compound",
-    "biological process",
-    "anatomy"
+    "side effect",
+    "symptom"
   ],
   "metaedge_tuples": [
     [
-      "compound",
-      "gene",
-      "binds",
-      "both"
-    ],
-    [
-      "gene",
-      "gene",
-      "covaries",
-      "both"
-    ],
-    [
-      "compound",
-      "gene",
-      "upregulates",
-      "both"
-    ],
-    [
-      "gene",
-      "biological process",
-      "participates",
-      "both"
-    ],
-    [
-      "disease",
-      "gene",
-      "upregulates",
-      "both"
-    ],
-    [
-      "compound",
-      "disease",
-      "palliates",
-      "both"
-    ],
-    [
-      "disease",
-      "gene",
-      "associates",
-      "both"
-    ],
-    [
-      "gene",
-      "molecular function",
-      "participates",
-      "both"
-    ],
-    [
-      "disease",
-      "symptom",
-      "presents",
-      "both"
-    ],
-    [
-      "disease",
-      "gene",
-      "downregulates",
-      "both"
-    ],
-    [
-      "gene",
-      "cellular component",
-      "participates",
-      "both"
-    ],
-    [
-      "gene",
-      "gene",
-      "interacts",
-      "both"
-    ],
-    [
-      "disease",
-      "disease",
-      "resembles",
-      "both"
-    ],
-    [
-      "compound",
-      "compound",
-      "resembles",
-      "both"
-    ],
-    [
-      "compound",
-      "side effect",
-      "causes",
-      "both"
-    ],
-    [
-      "perturbation",
-      "gene",
-      "regulates",
-      "both"
-    ],
-    [
-      "gene",
-      "pathway",
-      "participates",
-      "both"
-    ],
-    [
-      "disease",
       "anatomy",
-      "localizes",
-      "both"
-    ],
-    [
-      "gene",
-      "gene",
-      "regulates",
-      "forward"
-    ],
-    [
-      "anatomy",
-      "gene",
-      "upregulates",
-      "both"
-    ],
-    [
-      "compound",
       "gene",
       "downregulates",
       "both"
@@ -146,44 +26,164 @@
       "both"
     ],
     [
+      "anatomy",
+      "gene",
+      "upregulates",
+      "both"
+    ],
+    [
+      "compound",
+      "compound",
+      "resembles",
+      "both"
+    ],
+    [
+      "compound",
+      "disease",
+      "palliates",
+      "both"
+    ],
+    [
       "compound",
       "disease",
       "treats",
       "both"
     ],
     [
-      "anatomy",
+      "compound",
+      "gene",
+      "binds",
+      "both"
+    ],
+    [
+      "compound",
       "gene",
       "downregulates",
+      "both"
+    ],
+    [
+      "compound",
+      "gene",
+      "upregulates",
+      "both"
+    ],
+    [
+      "compound",
+      "side effect",
+      "causes",
+      "both"
+    ],
+    [
+      "disease",
+      "anatomy",
+      "localizes",
+      "both"
+    ],
+    [
+      "disease",
+      "disease",
+      "resembles",
+      "both"
+    ],
+    [
+      "disease",
+      "gene",
+      "associates",
+      "both"
+    ],
+    [
+      "disease",
+      "gene",
+      "downregulates",
+      "both"
+    ],
+    [
+      "disease",
+      "gene",
+      "upregulates",
+      "both"
+    ],
+    [
+      "disease",
+      "symptom",
+      "presents",
+      "both"
+    ],
+    [
+      "gene",
+      "biological process",
+      "participates",
+      "both"
+    ],
+    [
+      "gene",
+      "cellular component",
+      "participates",
+      "both"
+    ],
+    [
+      "gene",
+      "gene",
+      "covaries",
+      "both"
+    ],
+    [
+      "gene",
+      "gene",
+      "interacts",
+      "both"
+    ],
+    [
+      "gene",
+      "gene",
+      "regulates",
+      "forward"
+    ],
+    [
+      "gene",
+      "molecular function",
+      "participates",
+      "both"
+    ],
+    [
+      "gene",
+      "pathway",
+      "participates",
+      "both"
+    ],
+    [
+      "perturbation",
+      "gene",
+      "regulates",
       "both"
     ]
   ],
   "kind_to_abbrev": {
+    "cellular component": "CC",
+    "biological process": "BP",
+    "resembles": "r",
+    "presents": "p",
+    "interacts": "i",
     "disease": "D",
     "symptom": "S",
-    "localizes": "l",
-    "associates": "a",
-    "covaries": "c",
-    "presents": "p",
-    "cellular component": "CC",
-    "palliates": "p",
-    "molecular function": "MF",
-    "participates": "p",
-    "binds": "b",
-    "downregulates": "d",
-    "interacts": "i",
-    "perturbation": "PB",
-    "side effect": "SE",
-    "treats": "t",
-    "resembles": "r",
-    "causes": "c",
-    "regulates": "r",
-    "pathway": "PW",
-    "anatomy": "A",
     "upregulates": "u",
+    "molecular function": "MF",
+    "side effect": "SE",
+    "anatomy": "A",
     "gene": "G",
+    "treats": "t",
+    "covaries": "c",
+    "localizes": "l",
     "expresses": "e",
-    "compound": "C",
-    "biological process": "BP"
+    "causes": "c",
+    "participates": "p",
+    "pathway": "PW",
+    "palliates": "p",
+    "regulates": "r",
+    "perturbation": "PB",
+    "downregulates": "d",
+    "binds": "b",
+    "associates": "a",
+    "compound": "C"
   }
 }
