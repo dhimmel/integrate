@@ -1,25 +1,25 @@
 metaedge	abbreviation	edges	source_nodes	target_nodes	unbiased
-anatomy - downregulates - gene	AdG	102240	36	15097	102240
-anatomy - expresses - gene	AeG	526407	241	18094	453477
-anatomy - upregulates - gene	AuG	97848	36	15929	97848
-compound - binds - gene	CbG	10747	1377	1586	0
-compound - causes - side effect	CcSE	138944	1071	5701	0
-compound - downregulates - gene	CdG	36396	734	4762	36396
-compound - palliates - disease	CpD	390	221	50	0
-compound - resembles - compound	CrC	6486	1042	1054	6486
-compound - treats - disease	CtD	755	387	77	0
-compound - upregulates - gene	CuG	32069	703	4951	32069
-disease - associates - gene	DaG	12623	134	5392	1284
-disease - downregulates - gene	DdG	48688	46	16530	48688
-disease - localizes - anatomy	DlA	3602	133	398	0
-disease - presents - symptom	DpS	3357	133	415	0
-disease - resembles - disease	DrD	543	112	106	0
-disease - upregulates - gene	DuG	50287	46	16195	50287
-gene - covaries - gene	GcG	61690	9043	9532	61690
-gene - interacts - gene	GiG	147164	9526	14084	15517
-gene - participates - biological process	GpBP	559504	14772	11381	0
-gene - participates - cellular component	GpCC	73566	10580	1391	0
-gene - participates - molecular function	GpMF	97222	13063	2884	0
-gene - participates - pathway	GpPW	78045	9419	1620	0
-gene > regulates > gene	Gr>G	362310	4634	7373	362310
-perturbation - regulates - gene	PBrG	366520	3396	18245	0
+Anatomy - downregulates - Gene	AdG	102240	36	15097	102240
+Anatomy - expresses - Gene	AeG	526407	241	18094	453477
+Anatomy - upregulates - Gene	AuG	97848	36	15929	97848
+Compound - binds - Gene	CbG	10747	1377	1586	0
+Compound - causes - Side Effect	CcSE	138944	1071	5701	0
+Compound - downregulates - Gene	CdG	36396	734	4762	36396
+Compound - palliates - Disease	CpD	390	221	50	0
+Compound - resembles - Compound	CrC	6486	1042	1054	6486
+Compound - treats - Disease	CtD	755	387	77	0
+Compound - upregulates - Gene	CuG	32069	703	4951	32069
+Disease - associates - Gene	DaG	12623	134	5392	1284
+Disease - downregulates - Gene	DdG	48688	46	16530	48688
+Disease - localizes - Anatomy	DlA	3602	133	398	0
+Disease - presents - Symptom	DpS	3357	133	415	0
+Disease - resembles - Disease	DrD	543	112	106	0
+Disease - upregulates - Gene	DuG	50287	46	16195	50287
+Gene - covaries - Gene	GcG	61690	9043	9532	61690
+Gene - interacts - Gene	GiG	147164	9526	14084	15517
+Gene - participates - Biological Process	GpBP	559504	14772	11381	0
+Gene - participates - Cellular Component	GpCC	73566	10580	1391	0
+Gene - participates - Molecular Function	GpMF	97222	13063	2884	0
+Gene - participates - Pathway	GpPW	78045	9419	1620	0
+Gene > regulates > Gene	Gr>G	362310	4634	7373	362310
+Perturbation - regulates - Gene	PBrG	366520	3396	18245	0
