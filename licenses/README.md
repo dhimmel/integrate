@@ -19,6 +19,7 @@ The table is sorted by category, then license leniency, then alphabetical order.
 | 1 | MeSH | [custom](custom/MeSH.md) | [2015-08-21](https://www.nlm.nih.gov/mesh/termscon.html) | NCBI | USFG |
 | 2 | Disease Ontology | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |  [2015-08-20](http://disease-ontology.org/resources/) | University of Maryland | [NIH, EMBL, DOE](https://doi.org/10.1093/nar/gku1011) |
 | 2 | DISEASES | [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [2015-08-21](http://diseases.jensenlab.org/Downloads) | University of Copenhagen | [Novo Nordisk Foundation Center, EU's FP7](https://doi.org/10.1016/j.ymeth.2014.11.020) |
+| 2 | DrugCentral | [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [2016-03-19](https://github.com/olegursu/drugtarget/blob/9a6d84bed8650c6c507a2d3d786814c774568610/LICENSE) | University of New Mexico |  |
 | 2 | Gene Ontology | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [2015-08-21](http://geneontology.org/page/use-and-license) | Gene Ontology Consortium | [NHGRI](http://geneontology.org/faq/who-funds-go) |
 | 2 | GWAS Catalog | [custom](custom/EBI.md) | [2015-09-17](http://www.ebi.ac.uk/about/terms-of-use) | EBI | [NHGRI](https://www.ebi.ac.uk/gwas/docs/about) |
 | 2 | LINCS L1000 | [custom](custom/L1000.md) | [2015-10-16](http://www.lincscloud.org/license/) | Broad Institute | NIH |
