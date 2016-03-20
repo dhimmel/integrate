@@ -2,7 +2,7 @@ metaedge	abbreviation	edges	source_nodes	target_nodes	unbiased
 Anatomy - downregulates - Gene	AdG	102240	36	15097	102240
 Anatomy - expresses - Gene	AeG	526407	241	18094	453477
 Anatomy - upregulates - Gene	AuG	97848	36	15929	97848
-Compound - binds - Gene	CbG	10747	1377	1586	0
+Compound - binds - Gene	CbG	11571	1389	1689	0
 Compound - causes - Side Effect	CcSE	138944	1071	5701	0
 Compound - downregulates - Gene	CdG	36396	734	4762	36396
 Compound - palliates - Disease	CpD	390	221	50	0
@@ -23,3 +23,4 @@ Gene - participates - Molecular Function	GpMF	97222	13063	2884	0
 Gene - participates - Pathway	GpPW	78045	9419	1620	0
 Gene > regulates > Gene	Gr>G	362310	4634	7373	362310
 Perturbation - regulates - Gene	PBrG	366520	3396	18245	0
+Pharmacologic Class - includes - Compound	PCiC	10959	1262	1423	0
