@@ -3,11 +3,12 @@ import argparse
 import re
 import subprocess
 import sys
+import json
 
 def get_instances(directory):
     """Return neo4j instances in a directory"""
     instances = list()
-    for filename in os.listdir(directory):
+    for filename in sorted(os.listdir(directory)):
         binary = os.path.join(directory, filename, 'bin', 'neo4j')
         if not os.path.exists(binary):
             continue
@@ -87,18 +88,19 @@ def status_all(instances):
         if out:
             print(out)
 
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Manage neo4j servers')
     group = parser.add_mutually_exclusive_group()
     group.add_argument('--start-all', action='store_true')
     group.add_argument('--stop-all', action='store_true')
     group.add_argument('--status-all', action='store_true')
+    parser.add_argument('--write', default=None)
     args = parser.parse_args()
 
     directory = os.path.dirname(os.path.abspath(__file__))
     instances = get_instances(directory)
+    if not instances:
+        print('No instances found')
 
     if args.start_all:
         start_all(instances)
@@ -108,3 +110,7 @@ if __name__ == '__main__':
 
     if args.status_all:
         status_all(instances)
+
+    if args.write:
+        with open(args.write, 'wt') as write_file:
+            json.dump(instances, write_file, indent=2)
