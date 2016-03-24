@@ -87,6 +87,8 @@ def status_all(instances):
         out = is_running(instance)
         if out:
             print(out)
+        else:
+            print('Not running', instance['name'])
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Manage neo4j servers')
