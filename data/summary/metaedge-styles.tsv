@@ -33,7 +33,6 @@ Gene - participates - Biological Process	Gene–participates–Biological Proces
 Gene - participates - Cellular Component	Gene–participates–Cellular Component	Gene - participates - Cellular Component	GpCC	GpCC	Gene	Cellular Component	0
 Gene - participates - Molecular Function	Gene–participates–Molecular Function	Gene - participates - Molecular Function	GpMF	GpMF	Gene	Molecular Function	0
 Gene - participates - Pathway	Gene–participates–Pathway	Gene - participates - Pathway	GpPW	GpPW	Gene	Pathway	0
-Gene - regulates - Perturbation	Gene–regulates–Perturbation	Perturbation - regulates - Gene	GrPB	PBrG	Gene	Perturbation	1
 Gene - upregulates - Anatomy	Gene–upregulates–Anatomy	Anatomy - upregulates - Gene	GuA	AuG	Gene	Anatomy	1
 Gene - upregulates - Compound	Gene–upregulates–Compound	Compound - upregulates - Gene	GuC	CuG	Gene	Compound	1
 Gene - upregulates - Disease	Gene–upregulates–Disease	Disease - upregulates - Gene	GuD	DuG	Gene	Disease	1
@@ -41,7 +40,6 @@ Gene < regulates < Gene	Gene←regulates←Gene	Gene > regulates > Gene	G<rG	GrG
 Gene > regulates > Gene	Gene→regulates→Gene	Gene > regulates > Gene	Gr>G	GrG	Gene	Gene	0
 Molecular Function - participates - Gene	Molecular Function–participates–Gene	Gene - participates - Molecular Function	MFpG	GpMF	Molecular Function	Gene	1
 Pathway - participates - Gene	Pathway–participates–Gene	Gene - participates - Pathway	PWpG	GpPW	Pathway	Gene	1
-Perturbation - regulates - Gene	Perturbation–regulates–Gene	Perturbation - regulates - Gene	PBrG	PBrG	Perturbation	Gene	0
 Pharmacologic Class - includes - Compound	Pharmacologic Class–includes–Compound	Pharmacologic Class - includes - Compound	PCiC	PCiC	Pharmacologic Class	Compound	0
 Side Effect - causes - Compound	Side Effect–causes–Compound	Compound - causes - Side Effect	SEcC	CcSE	Side Effect	Compound	1
 Symptom - presents - Disease	Symptom–presents–Disease	Disease - presents - Symptom	SpD	DpS	Symptom	Disease	1

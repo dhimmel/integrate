@@ -20,7 +20,6 @@ Gene - interacts - Gene	GiG	147164	9526	14084	15517
 Gene - participates - Biological Process	GpBP	559504	14772	11381	0
 Gene - participates - Cellular Component	GpCC	73566	10580	1391	0
 Gene - participates - Molecular Function	GpMF	97222	13063	2884	0
-Gene - participates - Pathway	GpPW	78045	9419	1620	0
+Gene - participates - Pathway	GpPW	84372	8979	1822	0
 Gene > regulates > Gene	Gr>G	265672	4634	7048	265672
-Perturbation - regulates - Gene	PBrG	366520	3396	18245	0
 Pharmacologic Class - includes - Compound	PCiC	1029	345	724	0
