@@ -13,7 +13,7 @@ dependencies:
 - jinja2=2.8=py35_0
 - jsonschema=2.4.0=py35_0
 - jupyter=1.0.0=py35_1
-- jupyter_client=4.2.1=py35_0
+- jupyter_client=4.2.2=py35_0
 - jupyter_console=4.1.1=py35_0
 - jupyter_core=4.1.0=py35_0
 - libgfortran=3.0=0
@@ -67,7 +67,7 @@ dependencies:
   - et-xmlfile==1.0.1
   - hetio (/home/dhimmels/Documents/github/hetio)==0.1.0
   - ipython-genutils==0.1.0
-  - jupyter-client==4.2.1
+  - jupyter-client==4.2.2
   - jupyter-console==4.1.1
   - jupyter-core==4.1.0
   - py2neo==2.0.8
