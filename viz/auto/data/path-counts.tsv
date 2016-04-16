@@ -1,0 +1,122 @@
+source	target	path_count	metapath_count	target_nodes	length	total_targets	percent_targets
+Cellular Component	Cellular Component	0	0	0	1	1391	0.0
+Pathway	Cellular Component	0	0	0	1	1391	0.0
+Symptom	Cellular Component	0	0	0	1	1391	0.0
+Disease	Cellular Component	0	0	0	1	1391	0.0
+Molecular Function	Cellular Component	0	0	0	1	1391	0.0
+Pharmacologic Class	Cellular Component	0	0	0	1	1391	0.0
+Side Effect	Cellular Component	0	0	0	1	1391	0.0
+Anatomy	Cellular Component	0	0	0	1	1391	0.0
+Biological Process	Cellular Component	0	0	0	1	1391	0.0
+Compound	Cellular Component	0	0	0	1	1391	0.0
+Gene	Cellular Component	73566	1	1391	1	1391	100.0
+Cellular Component	Pathway	0	0	0	1	1822	0.0
+Pathway	Pathway	0	0	0	1	1822	0.0
+Symptom	Pathway	0	0	0	1	1822	0.0
+Disease	Pathway	0	0	0	1	1822	0.0
+Molecular Function	Pathway	0	0	0	1	1822	0.0
+Pharmacologic Class	Pathway	0	0	0	1	1822	0.0
+Side Effect	Pathway	0	0	0	1	1822	0.0
+Anatomy	Pathway	0	0	0	1	1822	0.0
+Biological Process	Pathway	0	0	0	1	1822	0.0
+Compound	Pathway	0	0	0	1	1822	0.0
+Gene	Pathway	84372	1	1822	1	1822	100.0
+Cellular Component	Symptom	0	0	0	1	438	0.0
+Pathway	Symptom	0	0	0	1	438	0.0
+Symptom	Symptom	0	0	0	1	438	0.0
+Disease	Symptom	3357	1	415	1	438	94.74885844748859
+Molecular Function	Symptom	0	0	0	1	438	0.0
+Pharmacologic Class	Symptom	0	0	0	1	438	0.0
+Side Effect	Symptom	0	0	0	1	438	0.0
+Anatomy	Symptom	0	0	0	1	438	0.0
+Biological Process	Symptom	0	0	0	1	438	0.0
+Compound	Symptom	0	0	0	1	438	0.0
+Gene	Symptom	0	0	0	1	438	0.0
+Cellular Component	Disease	0	0	0	1	137	0.0
+Pathway	Disease	0	0	0	1	137	0.0
+Symptom	Disease	3357	1	133	1	137	97.08029197080292
+Disease	Disease	1086	1	129	1	137	94.16058394160584
+Molecular Function	Disease	0	0	0	1	137	0.0
+Pharmacologic Class	Disease	0	0	0	1	137	0.0
+Side Effect	Disease	0	0	0	1	137	0.0
+Anatomy	Disease	3602	1	133	1	137	97.08029197080292
+Biological Process	Disease	0	0	0	1	137	0.0
+Compound	Disease	1145	2	91	1	137	66.42335766423358
+Gene	Disease	27977	3	134	1	137	97.81021897810218
+Cellular Component	Molecular Function	0	0	0	1	2884	0.0
+Pathway	Molecular Function	0	0	0	1	2884	0.0
+Symptom	Molecular Function	0	0	0	1	2884	0.0
+Disease	Molecular Function	0	0	0	1	2884	0.0
+Molecular Function	Molecular Function	0	0	0	1	2884	0.0
+Pharmacologic Class	Molecular Function	0	0	0	1	2884	0.0
+Side Effect	Molecular Function	0	0	0	1	2884	0.0
+Anatomy	Molecular Function	0	0	0	1	2884	0.0
+Biological Process	Molecular Function	0	0	0	1	2884	0.0
+Compound	Molecular Function	0	0	0	1	2884	0.0
+Gene	Molecular Function	97222	1	2884	1	2884	100.0
+Cellular Component	Pharmacologic Class	0	0	0	1	345	0.0
+Pathway	Pharmacologic Class	0	0	0	1	345	0.0
+Symptom	Pharmacologic Class	0	0	0	1	345	0.0
+Disease	Pharmacologic Class	0	0	0	1	345	0.0
+Molecular Function	Pharmacologic Class	0	0	0	1	345	0.0
+Pharmacologic Class	Pharmacologic Class	0	0	0	1	345	0.0
+Side Effect	Pharmacologic Class	0	0	0	1	345	0.0
+Anatomy	Pharmacologic Class	0	0	0	1	345	0.0
+Biological Process	Pharmacologic Class	0	0	0	1	345	0.0
+Compound	Pharmacologic Class	1029	1	345	1	345	100.0
+Gene	Pharmacologic Class	0	0	0	1	345	0.0
+Cellular Component	Side Effect	0	0	0	1	5734	0.0
+Pathway	Side Effect	0	0	0	1	5734	0.0
+Symptom	Side Effect	0	0	0	1	5734	0.0
+Disease	Side Effect	0	0	0	1	5734	0.0
+Molecular Function	Side Effect	0	0	0	1	5734	0.0
+Pharmacologic Class	Side Effect	0	0	0	1	5734	0.0
+Side Effect	Side Effect	0	0	0	1	5734	0.0
+Anatomy	Side Effect	0	0	0	1	5734	0.0
+Biological Process	Side Effect	0	0	0	1	5734	0.0
+Compound	Side Effect	138944	1	5701	1	5734	99.42448552493896
+Gene	Side Effect	0	0	0	1	5734	0.0
+Cellular Component	Anatomy	0	0	0	1	402	0.0
+Pathway	Anatomy	0	0	0	1	402	0.0
+Symptom	Anatomy	0	0	0	1	402	0.0
+Disease	Anatomy	3602	1	398	1	402	99.0049751243781
+Molecular Function	Anatomy	0	0	0	1	402	0.0
+Pharmacologic Class	Anatomy	0	0	0	1	402	0.0
+Side Effect	Anatomy	0	0	0	1	402	0.0
+Anatomy	Anatomy	0	0	0	1	402	0.0
+Biological Process	Anatomy	0	0	0	1	402	0.0
+Compound	Anatomy	0	0	0	1	402	0.0
+Gene	Anatomy	726495	3	241	1	402	59.950248756218905
+Cellular Component	Biological Process	0	0	0	1	11381	0.0
+Pathway	Biological Process	0	0	0	1	11381	0.0
+Symptom	Biological Process	0	0	0	1	11381	0.0
+Disease	Biological Process	0	0	0	1	11381	0.0
+Molecular Function	Biological Process	0	0	0	1	11381	0.0
+Pharmacologic Class	Biological Process	0	0	0	1	11381	0.0
+Side Effect	Biological Process	0	0	0	1	11381	0.0
+Anatomy	Biological Process	0	0	0	1	11381	0.0
+Biological Process	Biological Process	0	0	0	1	11381	0.0
+Compound	Biological Process	0	0	0	1	11381	0.0
+Gene	Biological Process	559504	1	11381	1	11381	100.0
+Cellular Component	Compound	0	0	0	1	1552	0.0
+Pathway	Compound	0	0	0	1	1552	0.0
+Symptom	Compound	0	0	0	1	1552	0.0
+Disease	Compound	1145	2	551	1	1552	35.50257731958763
+Molecular Function	Compound	0	0	0	1	1552	0.0
+Pharmacologic Class	Compound	1029	1	724	1	1552	46.649484536082475
+Side Effect	Compound	138944	1	1071	1	1552	69.00773195876289
+Anatomy	Compound	0	0	0	1	1552	0.0
+Biological Process	Compound	0	0	0	1	1552	0.0
+Compound	Compound	12972	1	1281	1	1552	82.53865979381443
+Gene	Compound	51429	3	1440	1	1552	92.78350515463917
+Cellular Component	Gene	73566	1	10580	1	20945	50.513248985438054
+Pathway	Gene	84372	1	8979	1	20945	42.86941990928623
+Symptom	Gene	0	0	0	1	20945	0.0
+Disease	Gene	27977	3	11818	1	20945	56.42396753401766
+Molecular Function	Gene	97222	1	13063	1	20945	62.36810694676534
+Pharmacologic Class	Gene	0	0	0	1	20945	0.0
+Side Effect	Gene	0	0	0	1	20945	0.0
+Anatomy	Gene	726495	3	18144	1	20945	86.62687992360945
+Biological Process	Gene	559504	1	14772	1	20945	70.52757221293865
+Compound	Gene	51429	3	5872	1	20945	28.035330627834806
+Gene	Gene	949052	3	17681	1	20945	84.41632847935068

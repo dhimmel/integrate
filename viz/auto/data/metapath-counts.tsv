@@ -1,0 +1,265 @@
+source	target	source_abbrev	target_abbrev	length	metapaths
+Anatomy	Anatomy	A	A	1	0
+Anatomy	Anatomy	A	A	2	10
+Anatomy	Anatomy	A	A	3	55
+Anatomy	Anatomy	A	A	4	583
+Anatomy	Biological Process	A	BP	1	0
+Anatomy	Biological Process	A	BP	2	3
+Anatomy	Biological Process	A	BP	3	15
+Anatomy	Biological Process	A	BP	4	165
+Anatomy	Cellular Component	A	CC	1	0
+Anatomy	Cellular Component	A	CC	2	3
+Anatomy	Cellular Component	A	CC	3	15
+Anatomy	Cellular Component	A	CC	4	165
+Anatomy	Compound	A	C	1	0
+Anatomy	Compound	A	C	2	11
+Anatomy	Compound	A	C	3	76
+Anatomy	Compound	A	C	4	769
+Anatomy	Disease	A	D	1	1
+Anatomy	Disease	A	D	2	10
+Anatomy	Disease	A	D	3	88
+Anatomy	Disease	A	D	4	800
+Anatomy	Gene	A	G	1	3
+Anatomy	Gene	A	G	2	15
+Anatomy	Gene	A	G	3	165
+Anatomy	Gene	A	G	4	1377
+Anatomy	Molecular Function	A	MF	1	0
+Anatomy	Molecular Function	A	MF	2	3
+Anatomy	Molecular Function	A	MF	3	15
+Anatomy	Molecular Function	A	MF	4	165
+Anatomy	Pathway	A	PW	1	0
+Anatomy	Pathway	A	PW	2	3
+Anatomy	Pathway	A	PW	3	15
+Anatomy	Pathway	A	PW	4	165
+Anatomy	Pharmacologic Class	A	PC	1	0
+Anatomy	Pharmacologic Class	A	PC	2	0
+Anatomy	Pharmacologic Class	A	PC	3	11
+Anatomy	Pharmacologic Class	A	PC	4	76
+Anatomy	Side Effect	A	SE	1	0
+Anatomy	Side Effect	A	SE	2	0
+Anatomy	Side Effect	A	SE	3	11
+Anatomy	Side Effect	A	SE	4	76
+Anatomy	Symptom	A	S	1	0
+Anatomy	Symptom	A	S	2	1
+Anatomy	Symptom	A	S	3	10
+Anatomy	Symptom	A	S	4	88
+Biological Process	Biological Process	BP	BP	1	0
+Biological Process	Biological Process	BP	BP	2	1
+Biological Process	Biological Process	BP	BP	3	4
+Biological Process	Biological Process	BP	BP	4	47
+Biological Process	Cellular Component	BP	CC	1	0
+Biological Process	Cellular Component	BP	CC	2	1
+Biological Process	Cellular Component	BP	CC	3	4
+Biological Process	Cellular Component	BP	CC	4	47
+Biological Process	Compound	BP	C	1	0
+Biological Process	Compound	BP	C	2	3
+Biological Process	Compound	BP	C	3	21
+Biological Process	Compound	BP	C	4	216
+Biological Process	Disease	BP	D	1	0
+Biological Process	Disease	BP	D	2	3
+Biological Process	Disease	BP	D	3	24
+Biological Process	Disease	BP	D	4	225
+Biological Process	Gene	BP	G	1	1
+Biological Process	Gene	BP	G	2	4
+Biological Process	Gene	BP	G	3	47
+Biological Process	Gene	BP	G	4	384
+Biological Process	Molecular Function	BP	MF	1	0
+Biological Process	Molecular Function	BP	MF	2	1
+Biological Process	Molecular Function	BP	MF	3	4
+Biological Process	Molecular Function	BP	MF	4	47
+Biological Process	Pathway	BP	PW	1	0
+Biological Process	Pathway	BP	PW	2	1
+Biological Process	Pathway	BP	PW	3	4
+Biological Process	Pathway	BP	PW	4	47
+Biological Process	Pharmacologic Class	BP	PC	1	0
+Biological Process	Pharmacologic Class	BP	PC	2	0
+Biological Process	Pharmacologic Class	BP	PC	3	3
+Biological Process	Pharmacologic Class	BP	PC	4	21
+Biological Process	Side Effect	BP	SE	1	0
+Biological Process	Side Effect	BP	SE	2	0
+Biological Process	Side Effect	BP	SE	3	3
+Biological Process	Side Effect	BP	SE	4	21
+Biological Process	Symptom	BP	S	1	0
+Biological Process	Symptom	BP	S	2	0
+Biological Process	Symptom	BP	S	3	3
+Biological Process	Symptom	BP	S	4	24
+Cellular Component	Cellular Component	CC	CC	1	0
+Cellular Component	Cellular Component	CC	CC	2	1
+Cellular Component	Cellular Component	CC	CC	3	4
+Cellular Component	Cellular Component	CC	CC	4	47
+Cellular Component	Compound	CC	C	1	0
+Cellular Component	Compound	CC	C	2	3
+Cellular Component	Compound	CC	C	3	21
+Cellular Component	Compound	CC	C	4	216
+Cellular Component	Disease	CC	D	1	0
+Cellular Component	Disease	CC	D	2	3
+Cellular Component	Disease	CC	D	3	24
+Cellular Component	Disease	CC	D	4	225
+Cellular Component	Gene	CC	G	1	1
+Cellular Component	Gene	CC	G	2	4
+Cellular Component	Gene	CC	G	3	47
+Cellular Component	Gene	CC	G	4	384
+Cellular Component	Molecular Function	CC	MF	1	0
+Cellular Component	Molecular Function	CC	MF	2	1
+Cellular Component	Molecular Function	CC	MF	3	4
+Cellular Component	Molecular Function	CC	MF	4	47
+Cellular Component	Pathway	CC	PW	1	0
+Cellular Component	Pathway	CC	PW	2	1
+Cellular Component	Pathway	CC	PW	3	4
+Cellular Component	Pathway	CC	PW	4	47
+Cellular Component	Pharmacologic Class	CC	PC	1	0
+Cellular Component	Pharmacologic Class	CC	PC	2	0
+Cellular Component	Pharmacologic Class	CC	PC	3	3
+Cellular Component	Pharmacologic Class	CC	PC	4	21
+Cellular Component	Side Effect	CC	SE	1	0
+Cellular Component	Side Effect	CC	SE	2	0
+Cellular Component	Side Effect	CC	SE	3	3
+Cellular Component	Side Effect	CC	SE	4	21
+Cellular Component	Symptom	CC	S	1	0
+Cellular Component	Symptom	CC	S	2	0
+Cellular Component	Symptom	CC	S	3	3
+Cellular Component	Symptom	CC	S	4	24
+Compound	Compound	C	C	1	1
+Compound	Compound	C	C	2	16
+Compound	Compound	C	C	3	107
+Compound	Compound	C	C	4	1029
+Compound	Disease	C	D	1	2
+Compound	Disease	C	D	2	13
+Compound	Disease	C	D	3	121
+Compound	Disease	C	D	4	1072
+Compound	Gene	C	G	1	3
+Compound	Gene	C	G	2	21
+Compound	Gene	C	G	3	216
+Compound	Gene	C	G	4	1860
+Compound	Molecular Function	C	MF	1	0
+Compound	Molecular Function	C	MF	2	3
+Compound	Molecular Function	C	MF	3	21
+Compound	Molecular Function	C	MF	4	216
+Compound	Pathway	C	PW	1	0
+Compound	Pathway	C	PW	2	3
+Compound	Pathway	C	PW	3	21
+Compound	Pathway	C	PW	4	216
+Compound	Pharmacologic Class	C	PC	1	1
+Compound	Pharmacologic Class	C	PC	2	1
+Compound	Pharmacologic Class	C	PC	3	16
+Compound	Pharmacologic Class	C	PC	4	107
+Compound	Side Effect	C	SE	1	1
+Compound	Side Effect	C	SE	2	1
+Compound	Side Effect	C	SE	3	16
+Compound	Side Effect	C	SE	4	107
+Compound	Symptom	C	S	1	0
+Compound	Symptom	C	S	2	2
+Compound	Symptom	C	S	3	13
+Compound	Symptom	C	S	4	121
+Disease	Disease	D	D	1	1
+Disease	Disease	D	D	2	16
+Disease	Disease	D	D	3	125
+Disease	Disease	D	D	4	1146
+Disease	Gene	D	G	1	3
+Disease	Gene	D	G	2	24
+Disease	Gene	D	G	3	225
+Disease	Gene	D	G	4	1998
+Disease	Molecular Function	D	MF	1	0
+Disease	Molecular Function	D	MF	2	3
+Disease	Molecular Function	D	MF	3	24
+Disease	Molecular Function	D	MF	4	225
+Disease	Pathway	D	PW	1	0
+Disease	Pathway	D	PW	2	3
+Disease	Pathway	D	PW	3	24
+Disease	Pathway	D	PW	4	225
+Disease	Pharmacologic Class	D	PC	1	0
+Disease	Pharmacologic Class	D	PC	2	2
+Disease	Pharmacologic Class	D	PC	3	13
+Disease	Pharmacologic Class	D	PC	4	121
+Disease	Side Effect	D	SE	1	0
+Disease	Side Effect	D	SE	2	2
+Disease	Side Effect	D	SE	3	13
+Disease	Side Effect	D	SE	4	121
+Disease	Symptom	D	S	1	1
+Disease	Symptom	D	S	2	1
+Disease	Symptom	D	S	3	16
+Disease	Symptom	D	S	4	125
+Gene	Gene	G	G	1	4
+Gene	Gene	G	G	2	47
+Gene	Gene	G	G	3	384
+Gene	Gene	G	G	4	3542
+Gene	Molecular Function	G	MF	1	1
+Gene	Molecular Function	G	MF	2	4
+Gene	Molecular Function	G	MF	3	47
+Gene	Molecular Function	G	MF	4	384
+Gene	Pathway	G	PW	1	1
+Gene	Pathway	G	PW	2	4
+Gene	Pathway	G	PW	3	47
+Gene	Pathway	G	PW	4	384
+Gene	Pharmacologic Class	G	PC	1	0
+Gene	Pharmacologic Class	G	PC	2	3
+Gene	Pharmacologic Class	G	PC	3	21
+Gene	Pharmacologic Class	G	PC	4	216
+Gene	Side Effect	G	SE	1	0
+Gene	Side Effect	G	SE	2	3
+Gene	Side Effect	G	SE	3	21
+Gene	Side Effect	G	SE	4	216
+Gene	Symptom	G	S	1	0
+Gene	Symptom	G	S	2	3
+Gene	Symptom	G	S	3	24
+Gene	Symptom	G	S	4	225
+Molecular Function	Molecular Function	MF	MF	1	0
+Molecular Function	Molecular Function	MF	MF	2	1
+Molecular Function	Molecular Function	MF	MF	3	4
+Molecular Function	Molecular Function	MF	MF	4	47
+Molecular Function	Pathway	MF	PW	1	0
+Molecular Function	Pathway	MF	PW	2	1
+Molecular Function	Pathway	MF	PW	3	4
+Molecular Function	Pathway	MF	PW	4	47
+Molecular Function	Pharmacologic Class	MF	PC	1	0
+Molecular Function	Pharmacologic Class	MF	PC	2	0
+Molecular Function	Pharmacologic Class	MF	PC	3	3
+Molecular Function	Pharmacologic Class	MF	PC	4	21
+Molecular Function	Side Effect	MF	SE	1	0
+Molecular Function	Side Effect	MF	SE	2	0
+Molecular Function	Side Effect	MF	SE	3	3
+Molecular Function	Side Effect	MF	SE	4	21
+Molecular Function	Symptom	MF	S	1	0
+Molecular Function	Symptom	MF	S	2	0
+Molecular Function	Symptom	MF	S	3	3
+Molecular Function	Symptom	MF	S	4	24
+Pathway	Pathway	PW	PW	1	0
+Pathway	Pathway	PW	PW	2	1
+Pathway	Pathway	PW	PW	3	4
+Pathway	Pathway	PW	PW	4	47
+Pathway	Pharmacologic Class	PW	PC	1	0
+Pathway	Pharmacologic Class	PW	PC	2	0
+Pathway	Pharmacologic Class	PW	PC	3	3
+Pathway	Pharmacologic Class	PW	PC	4	21
+Pathway	Side Effect	PW	SE	1	0
+Pathway	Side Effect	PW	SE	2	0
+Pathway	Side Effect	PW	SE	3	3
+Pathway	Side Effect	PW	SE	4	21
+Pathway	Symptom	PW	S	1	0
+Pathway	Symptom	PW	S	2	0
+Pathway	Symptom	PW	S	3	3
+Pathway	Symptom	PW	S	4	24
+Pharmacologic Class	Pharmacologic Class	PC	PC	1	0
+Pharmacologic Class	Pharmacologic Class	PC	PC	2	1
+Pharmacologic Class	Pharmacologic Class	PC	PC	3	1
+Pharmacologic Class	Pharmacologic Class	PC	PC	4	16
+Pharmacologic Class	Side Effect	PC	SE	1	0
+Pharmacologic Class	Side Effect	PC	SE	2	1
+Pharmacologic Class	Side Effect	PC	SE	3	1
+Pharmacologic Class	Side Effect	PC	SE	4	16
+Pharmacologic Class	Symptom	PC	S	1	0
+Pharmacologic Class	Symptom	PC	S	2	0
+Pharmacologic Class	Symptom	PC	S	3	2
+Pharmacologic Class	Symptom	PC	S	4	13
+Side Effect	Side Effect	SE	SE	1	0
+Side Effect	Side Effect	SE	SE	2	1
+Side Effect	Side Effect	SE	SE	3	1
+Side Effect	Side Effect	SE	SE	4	16
+Side Effect	Symptom	SE	S	1	0
+Side Effect	Symptom	SE	S	2	0
+Side Effect	Symptom	SE	S	3	2
+Side Effect	Symptom	SE	S	4	13
+Symptom	Symptom	S	S	1	0
+Symptom	Symptom	S	S	2	1
+Symptom	Symptom	S	S	3	1
+Symptom	Symptom	S	S	4	16
