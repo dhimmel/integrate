@@ -65,7 +65,7 @@ dependencies:
 - zlib=1.2.8=0
 - pip:
   - et-xmlfile==1.0.1
-  - hetio (/home/dhimmels/Documents/github/hetio)==0.1.0
+  - hetio==0.2.1
   - ipython-genutils==0.1.0
   - jupyter-client==4.2.2
   - jupyter-console==4.1.1
