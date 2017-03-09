@@ -8,9 +8,6 @@ Hetnets are networks with multiple types of nodes and edges. This repository cre
 
 ## Execution
 
-The dependencies are listed in [`environment.yml`](environment.yml). All available through Anaconda or
-PyPI, except for [`hetio`](https://github.com/dhimmel/hetio).
-
 1. [`precompile.sh`](precompile.sh) executes notebooks which combine multiple resources into a single type of edge. See the contents of [`compile`](compile) for more information.
 
 2. [`build.sh`](build.sh) builds the hetnet, creates permuted derivatives, and exports the hetnet to Neo4j.
@@ -26,6 +23,16 @@ PyPI, except for [`hetio`](https://github.com/dhimmel/hetio).
 + [`data`](data): the directory containing saved versions of the network.
 + [`data/summary`](data/summary): the directory with tables of network statistics. See the summaries of [metanodes](data/summary/metanodes.tsv) and [metaedges](data/summary/metaedges.tsv).
 + [`viz`](viz): the directory containing network visualizations. Includes a holistic network [view](viz/network-5k.png) as well as node [degree distributions](viz/degrees.pdf).
+
+## Environment
+
+The dependencies are listed in [`environment.yml`](environment.yml), which can be installed on Linux using:
+
+```sh
+conda env create --file=environment.yml
+```
+
+Activate the environment with `source activate integrate`.
 
 ## License
 
