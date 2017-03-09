@@ -65,10 +65,9 @@ dependencies:
 - zlib=1.2.8=0
 - pip:
   - et-xmlfile==1.0.1
-  - hetio==0.2.1
+  - hetio==0.2.3
   - ipython-genutils==0.1.0
   - jupyter-client==4.2.2
   - jupyter-console==4.1.1
   - jupyter-core==4.1.0
   - py2neo==2.0.8
-
