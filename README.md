@@ -2,9 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/14475/dhimmel/integrate.svg)](https://zenodo.org/badge/latestdoi/14475/dhimmel/integrate)
 
-Hetnets are networks with multiple types of nodes and edges. This repository creates `hetionet v1.0`, which is a hetnet encoding biology, disease, and pharmacology. We created `hetionet v1.0` for [Rephetio](https://doi.org/10.15363/thinklab.4), our project to systematically evaluate why drugs work and to predict new therapeutic uses for existing drugs.
+Hetnets are networks with multiple types of nodes and edges. This repository creates `hetionet v1.0`, which is a hetnet encoding biology, disease, and pharmacology. We created Hetionet v1.0 for [Project Rephetio](https://doi.org/10.15363/thinklab.4), a study to systematically evaluate why drugs work and to predict new therapeutic uses for existing drugs. The study describing Project Rephetio and Hetionet v1.0 is:
 
-**Note: this repository is for building `hetionet v1.0`. We recommend that users interested in downloading and using the completed hetnet, do so from the [`dhimmel/hetionet`](https://github.com/dhimmel/hetionet) repository.**
+> [**Systematic integration of biomedical knowledge prioritizes drugs for repurposing**](https://doi.org/10.7554/eLife.26726)<br>
+Daniel S Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini<br>
+_eLife_ (2017-09-22) DOI: `10.7554/eLife.26726`
+
+**Note: this repository is for building Hetionet v1.0. We recommend that users interested in downloading and using the completed hetnet, do so from the [`dhimmel/hetionet`](https://github.com/dhimmel/hetionet) repository.**
 
 ## Execution
 
